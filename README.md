@@ -73,7 +73,8 @@ Order placed successfully!
 {'orderId': 123456789, 'symbol': 'BTCUSDT', ...}
 ```
 All API interactions and errors are logged in logs/bot.log.
-Logging
+
+# Logging
 -Sample logs/bot.log:
 ```
 2025-09-14 23:30:00 [INFO] Placing BUY MARKET order for 0.001 BTCUSDT at price None
