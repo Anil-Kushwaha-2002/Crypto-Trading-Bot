@@ -42,7 +42,7 @@ TESTNET_URL = 'https://testnet.binancefuture.com'
 ```
 # Project Structure
 ```
-trading_bot/
+Crypto_Trading_Bot/
 │
 ├── config.py         # API credentials & testnet URL
 ├── bot.py            # Trading bot class with order methods
